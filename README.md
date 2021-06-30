@@ -6,8 +6,8 @@ A small flutter project to practice concepts such as state management, user auth
 ## ScreenShots:
 
 ### User Login/SignUp screens:
-![Simulator Screen Shot - iPhone 8 - 2021-06-30 at 19 59 01](https://user-images.githubusercontent.com/22710660/124002196-1ef0d980-d9de-11eb-8a47-68ac43f4a520.png)
-![Simulator Screen Shot - iPhone 8 - 2021-06-30 at 19 59 34](https://user-images.githubusercontent.com/22710660/124002291-3af47b00-d9de-11eb-987a-4111d6affeb5.png)
+<img width="327" alt="Screen Shot 2021-06-30 at 8 09 31 PM" src="https://user-images.githubusercontent.com/22710660/124003393-8ce9d080-d9df-11eb-8dce-67a8872691f8.png">
+<img width="334" alt="Screen Shot 2021-06-30 at 8 09 44 PM" src="https://user-images.githubusercontent.com/22710660/124003402-9115ee00-d9df-11eb-8ef1-ac3c92558566.png">
 
 ### Product Store Screen:
 ![Simulator Screen Shot - iPhone 8 - 2021-06-30 at 19 59 48](https://user-images.githubusercontent.com/22710660/124002380-55c6ef80-d9de-11eb-836e-c83471858da5.png)
