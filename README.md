@@ -13,7 +13,6 @@ A small flutter project to practice concepts such as state management, user auth
 <img width="335" alt="Screen Shot 2021-06-30 at 8 10 24 PM" src="https://user-images.githubusercontent.com/22710660/124003479-a9860880-d9df-11eb-9420-4c2ad2c479db.png">
 
 ### Order History Screen:
-<img width="331" alt="Screen Shot 2021-06-30 at 8 10 38 PM" src="https://user-images.githubusercontent.com/22710660/124003517-b571ca80-d9df-11eb-9200-cdc36178aa02.png">
 <img width="334" alt="Screen Shot 2021-06-30 at 8 11 05 PM" src="https://user-images.githubusercontent.com/22710660/124003549-c3275000-d9df-11eb-9fc7-f3ac09d492b5.png">
 
 ### Manage Products Screen:
@@ -31,6 +30,7 @@ A small flutter project to practice concepts such as state management, user auth
 
 ### Drawer Screen:
 <img width="332" alt="Screen Shot 2021-06-30 at 8 11 54 PM" src="https://user-images.githubusercontent.com/22710660/124003789-fec21a00-d9df-11eb-8244-7a40f18959ce.png">
+
 ### Cart Screen:
 <img width="331" alt="Screen Shot 2021-06-30 at 8 10 38 PM" src="https://user-images.githubusercontent.com/22710660/124003875-15687100-d9e0-11eb-88e9-f78ba898f43e.png">
 
