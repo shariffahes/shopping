@@ -10,21 +10,30 @@ A small flutter project to practice concepts such as state management, user auth
 <img width="334" alt="Screen Shot 2021-06-30 at 8 09 44 PM" src="https://user-images.githubusercontent.com/22710660/124003402-9115ee00-d9df-11eb-8ef1-ac3c92558566.png">
 
 ### Product Store Screen:
-![Simulator Screen Shot - iPhone 8 - 2021-06-30 at 19 59 48](https://user-images.githubusercontent.com/22710660/124002380-55c6ef80-d9de-11eb-836e-c83471858da5.png)
+<img width="335" alt="Screen Shot 2021-06-30 at 8 10 24 PM" src="https://user-images.githubusercontent.com/22710660/124003479-a9860880-d9df-11eb-9420-4c2ad2c479db.png">
+
 ### Order History Screen:
-![Simulator Screen Shot - iPhone 8 - 2021-06-30 at 19 59 58](https://user-images.githubusercontent.com/22710660/124002432-670ffc00-d9de-11eb-90ca-86999de324eb.png)
+<img width="331" alt="Screen Shot 2021-06-30 at 8 10 38 PM" src="https://user-images.githubusercontent.com/22710660/124003517-b571ca80-d9df-11eb-9200-cdc36178aa02.png">
+<img width="334" alt="Screen Shot 2021-06-30 at 8 11 05 PM" src="https://user-images.githubusercontent.com/22710660/124003549-c3275000-d9df-11eb-9fc7-f3ac09d492b5.png">
+
 ### Manage Products Screen:
-![Simulator Screen Shot - iPhone 8 - 2021-06-30 at 20 00 06](https://user-images.githubusercontent.com/22710660/124002474-72fbbe00-d9de-11eb-93d5-c87aac13426a.png)
+<img width="332" alt="Screen Shot 2021-06-30 at 8 11 18 PM" src="https://user-images.githubusercontent.com/22710660/124003596-d0443f00-d9df-11eb-909c-0e3ee75dd87d.png">
+
 ### Edit/Add Product Screen:
-![Simulator Screen Shot - iPhone 8 - 2021-06-30 at 20 00 11](https://user-images.githubusercontent.com/22710660/124002512-8018ad00-d9de-11eb-9661-e78f39c3ce42.png)
-![Simulator Screen Shot - iPhone 8 - 2021-06-30 at 20 00 16](https://user-images.githubusercontent.com/22710660/124002522-8444ca80-d9de-11eb-9e05-98bc01401ef6.png)
-### Snackbar alert:
-![Simulator Screen Shot - iPhone 8 - 2021-06-30 at 20 00 56](https://user-images.githubusercontent.com/22710660/124002576-99b9f480-d9de-11eb-82f9-b2d3dd7156db.png)
+<img width="329" alt="Screen Shot 2021-06-30 at 8 11 30 PM" src="https://user-images.githubusercontent.com/22710660/124003629-d89c7a00-d9df-11eb-8dbd-bbc614e9a131.png">
+<img width="332" alt="Screen Shot 2021-06-30 at 8 11 41 PM" src="https://user-images.githubusercontent.com/22710660/124003641-dd612e00-d9df-11eb-9e54-51b3b5f38859.png">
+
 ### Product Details Screen:
-![Simulator Screen Shot - iPhone 8 - 2021-06-30 at 20 01 32](https://user-images.githubusercontent.com/22710660/124002662-af2f1e80-d9de-11eb-915e-1678cd9b4370.png)
+<img width="333" alt="Screen Shot 2021-06-30 at 8 12 20 PM" src="https://user-images.githubusercontent.com/22710660/124003707-ece07700-d9df-11eb-8360-c2919fe0eb0d.png">
+
 ### Favorite Filter:
-![Simulator Screen Shot - iPhone 8 - 2021-06-30 at 20 01 45](https://user-images.githubusercontent.com/22710660/124002711-bd7d3a80-d9de-11eb-8f79-e71f4b5969e8.png)
+<img width="324" alt="Screen Shot 2021-06-30 at 8 12 36 PM" src="https://user-images.githubusercontent.com/22710660/124003744-f5d14880-d9df-11eb-93d0-b83f09bb521f.png">
+
 ### Drawer Screen:
-![Simulator Screen Shot - iPhone 8 - 2021-06-30 at 20 01 52](https://user-images.githubusercontent.com/22710660/124002739-c66e0c00-d9de-11eb-86d2-8d8672ff373b.png)
+<img width="332" alt="Screen Shot 2021-06-30 at 8 11 54 PM" src="https://user-images.githubusercontent.com/22710660/124003789-fec21a00-d9df-11eb-8244-7a40f18959ce.png">
+### Cart Screen:
+<img width="331" alt="Screen Shot 2021-06-30 at 8 10 38 PM" src="https://user-images.githubusercontent.com/22710660/124003875-15687100-d9e0-11eb-88e9-f78ba898f43e.png">
+
 ### Other ScreenShots:
-![Simulator Screen Shot - iPhone 8 - 2021-06-30 at 20 02 14](https://user-images.githubusercontent.com/22710660/124002795-d84faf00-d9de-11eb-977d-8725bc22d8df.png)
+<img width="323" alt="Screen Shot 2021-06-30 at 8 10 04 PM" src="https://user-images.githubusercontent.com/22710660/124003833-08e41880-d9e0-11eb-8e43-fd257551a06a.png">
+
